@@ -1,0 +1,12 @@
+church;chiesa
+clear;chiare
+la zucca;the pumpkin
+la zuppa;the soup
+rather;piuttosto
+soon;tosto
+the cabbage;il cavallo
+the horse;il cavolo
+the least;il meno
+the menu;il menu
+the time;il tempo
+the weather;il tempo

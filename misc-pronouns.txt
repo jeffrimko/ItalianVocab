@@ -1,0 +1,18 @@
+he;lui
+her/it/you (direct);la
+herself/whether (prepositional);se
+him, it (direct);lo
+himself/oneself (direct);si
+it (prepositional);essa/esso
+it/to him (indirect);gli
+me (direct);mi
+our;nostro
+she;lei
+that/what;che
+they;loro
+to you (plural/indirect);vi
+us (direct);ci
+you (direct);ti
+you (formal);Lei
+you (plural);voi
+your (plural);vostro

@@ -1,0 +1,17 @@
+the blindness;la cecita
+the color;il colore
+the deafness;la sortdita
+the flavor;il sapore
+the mutism;il mutismo
+the perfume;il profumo
+the sensation;la sensazione
+the sense (of);il senso (di)
+the sense of hearing;l'udito
+the sense of smell;l'odorato
+the sight;la vista
+the skin;la pelle
+the smell;l'odore
+the sound;il suono
+the taste buds;le papille gustative
+the taste;il gusto
+the touch;il tatto

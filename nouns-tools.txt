@@ -1,0 +1,36 @@
+the allen wrench;la chiave a brugola
+the axe;la scure, l'ascia
+the axle;l'asse
+the bar;la sbarra
+the battery;la pila
+the blade;la lama
+the bolt;il bullone
+the broom;la scopa
+the chisel;lo scalpello
+the cord;il cordoncino
+the drill bit;la punta per il trapano
+the drill;il trapano
+the file;la lima
+the flashlight;la torcia
+the funnel;l'imbuto
+the hammer;il martello
+the handle;la maniglia
+the hoe;la zappa
+the knife;il coltello
+the ladder;la scala
+the level;la livella
+the nail;il chiodo
+the nut;il dado
+the oil can;l'oliatore a mano
+the pail;il secchio
+the paintbrush;il pennello
+the pliers;le pinze
+the rake;il rastrello
+the saw;la sega
+the screw;la vite
+the screwdriver;il cacciavite
+the shovel;la vanga
+the toolbox;la scatola degli attrezzi
+the tools;gli attrezzi
+the washer;la rondella
+the wrench;la chiave

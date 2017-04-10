@@ -1,0 +1,37 @@
+the ankle;la caviglia
+the arm;il braccio
+the back;il dorso
+the beard;la barba
+the cheek;la guancia
+the chest;la torace
+the chin;il mento
+the ear;l'orecchio
+the elbow;il gomito
+the eye;l'occhio
+the eyebrow;il sopracciglio
+the finger;il dito
+the foot;il piede
+the forehead;la fronte
+the hair;i capelli
+the hand;la mano
+the head;la testa
+the hip;l'anca
+the knee;il ginocchio
+the leg;la gamba
+the lips;il labbro
+the moustache;i baffi
+the mouth;la bocca
+the neck;il collo
+the nose;il naso
+the shoulder;la spalla
+the skin;la pelle
+the stomach;la stamaco
+the sweat;il sudore
+the throat;la gola
+the thumb;il pollice
+the toe;il dito del piede
+the tongue;la lingua
+the tooth;il dente
+the waist;la vita
+the wrinkle;la ruga
+the wrist;il polso

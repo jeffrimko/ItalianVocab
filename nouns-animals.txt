@@ -1,0 +1,71 @@
+the alligator;l'alligatore
+the animal;l'animale
+the ant;la formica
+the bear;l'orso
+the bee;l'ape
+the bird;l'uccello
+the cage;la gabbia
+the calf;il vitello
+the cardinal;il cardinale
+the cat;il gatto
+the chick;il pulcino
+the chicken;il pollo
+the claw;l'artiglio
+the cockroach;lo scarafaggio
+the cow;la vacca, la mucca
+the crane;la gru
+the deer;il cervo
+the dog;il cane
+the dolphin;il delfino
+the donkey;l'asino
+the duck;l'anatra
+the duckling;l'anatroccolo
+the eagle;l'aquila
+the elephant;l'elefante
+the feather;la piuma
+the firefly;la lucciola
+the fish;il pesce
+the fox;la volpe
+the frog;la rana
+the giraffe;la giraffa
+the goat;la capra
+the goose;l'oca
+the hen;la gallina
+the hoof;lo zoccolo
+the horn;il corno
+the horse;il cavallo
+the kangaroo;il canguro
+the kitten;il gattino
+the lamb;l'agnello
+the lion;il leone
+the monkey;la scimmia
+the mouse;il topo
+the nest;il nido
+the ostrich;lo struzzo
+the owl;il gufo
+the panda;il panda
+the parrot;il pappagallo
+the penguin;il pinguino
+the pet;l'animale domestico
+the pig;il maiale
+the puppy;il cagnolino
+the rabbit;il coniglio
+the raccoon;il procione
+the rat;il ratto
+the robin;il pettirosso
+the rooster;il gallo
+the shark;lo squalo
+the sheep;la pecora
+the shrimp;il gambero
+the skunk;la puzzola
+the snake;il serpente
+the spider;il ragno
+the squirrel;lo scoiattolo
+the tail;la coda
+the tiger;la tigre
+the tortoise;la tartaruga
+the turkey;il tacchino
+the whale;la balena
+the wolf;il lupo
+the woodpecker;il picchio
+the worm;il verme

@@ -1,0 +1,241 @@
+a few/any/some;qualche
+a lot/many;parecchia
+able/capable/skilled;capace
+about;circa
+absolute;assoluto
+account;conto
+act;atto
+action;azione
+activity;attività
+actor;attore
+advice/reccommendation/suggestion;consiglio
+again/still/yet;ancora
+against;contro
+agreement;accordo
+ahead/forward;avanti
+air;aria
+all/each/every;ogni
+already;gia
+also;anche
+american;americano
+ancient/antique;antico
+animal;animale
+any/common/just any;qualsiasi
+anybody;chiunque
+anybody;nessuno
+anyhow/anyway;comunque
+anymore;piu
+anywhere/everywhere/wherever;ovunque
+appearance;aspetto
+arm;braccio
+around;attorno
+art;arte
+article;articolo
+as soon as/just;appena
+as/because/for;poiche
+at least;almeno
+attention;attenzione
+attitude;atteggiamento
+author;autore
+authority;autorità
+automobile/car;automobile
+backyard/courtyard;cortile
+bad/wicked;cattivo
+base/basis;base
+bathroom;bagno
+battle;battaglia
+beast;bestia
+beautiful;bello
+beauty;bellezza
+behind;dietro
+blonde;biondo
+body;corpo
+boss/chief;capo
+both/either;entrambi
+brief/short;breve
+bright/clear;chiaro
+building/construction;costruzione
+business;affare
+careful;attento
+case;caso
+catholic;cattolico
+caught/taken;presa
+cause;causa
+center;centro
+central;centrale
+certain/sure;certo
+certainly;certamente
+character;carattere
+characteristic;caratteristico
+child;bambino
+christian;cristiano
+church;chiesa
+citizen;cittadino
+city/town;città
+civil;civile
+civilization;civiltà
+claim/law;diritto
+class;classe
+clear;chiare
+clothing/dress;abito
+coast;costa
+coffee;caffè
+color;colore
+comfortable;comodo
+commerce/trade;commercio
+commission/errand;commissione
+common/municipality;comune
+communication;comunicazione
+companion;compagno
+company;compagnia
+comparison;confronto
+completely;completamente
+concept;concetto
+condition;condizione
+congress;congresso
+conscience;coscienza
+consequence;conseguenza
+contact;contatto
+content/happy;contento
+continuous;continuo
+contrary/opposite;contrario
+control;controllo
+corner;angolo
+countryside;campagna
+courage;coraggio
+course;corso
+crisis;crisi
+cross;croce
+culture;cultura
+current;attuale
+current;corrente
+dark;buio
+dear/expensive;caro
+decision;decisione
+defense;difesa
+destine;destino
+difference;differenza
+difficult;difficile
+difficulty;difficoltà
+direct;diretto
+direction;direzione
+director;direttore
+discourse/speech/talk;discorso
+dog;cane
+down;giù
+each one;ciascuno
+each one;ognuno
+enough;abbastanza/basta
+environment;ambiente
+even;addirittura
+ever/never;mai
+far/far away;lontano
+farmer/peasant;contadino
+field;campo
+football (soccer);calcio
+forest;bosco
+friend;amico
+from;da
+funny;buffo
+giving;dando
+god;dio
+good/well;bene/buono
+good;bravo
+guilt;colpa
+hair (single hair);capello
+happens;succede
+hat;cappello
+heart;cuore
+help;aiuto
+hill;collina
+hit/impact;colpo
+home/house;casa
+honey/sweaty;tesoro
+horse;cavallo
+hot/warm;caldo
+hotel;albergo
+how;come
+i want;voglio
+i will put;mettero
+i would like;vorrei
+immediately;subito
+in front of;davanti
+indeed;appunto
+inside/within;dentro
+key;chiave
+kilometer;chilometro
+kitchen;cucina
+knowledge;conoscenza
+large/wide;ampio
+law;legge
+lawyer;avvocato
+light blue;azzurro
+love;amore
+many/plenty;parecchio
+maybe/perhaps;magari
+meat;carne
+moment;attimo
+money;denaro
+mouth;bocca
+namely/or/rather/that is;ovvero
+near;accanto
+neck;collo
+need;bisogno
+nobody;nessuno
+not at all;affatto
+nothing;nulla
+now;adesso/ora
+of;di
+on the contrary;anzi
+opposite;di fronte
+other;altro
+outside;fuori
+paper;carta
+put/put in;messo
+race/run;corsa
+rather;piuttosto
+really/truly;davvero
+right;destro
+room;camera
+same;stesso
+short;basso
+sky;cielo
+so/then/well then;allora/quindi
+someone;qualcuno
+soul;anima
+spieghero;i will explain
+still;buono
+straight;diritto
+subject/topic;argomento
+subtitles;sottotitoli
+tall;alto
+that is;cioè
+that/what;che
+the bottom;il fondo
+the left;la sinistra
+the only;l'unica
+the power;il potere
+the right;la destra
+the side;il lato
+the top;la cima
+thing/what;cosa
+through;attraverso
+to;a
+today;oggi
+tomorrow;domani
+tooth;dente
+treatment;cura
+tree;albero
+ugly;brutto
+very much;assai
+wait;attesa
+water;acqua
+weapon;arma
+white;bianco
+who knows;chissà
+who;chi
+wish;desiderio
+with;con
+world;mondo
+year;anno
+yesterday;ieri

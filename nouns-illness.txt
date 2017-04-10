@@ -1,0 +1,17 @@
+the arthritis;l'artrite
+the backache;il mal di pancia
+the bacteria;i batteri
+the cold;il raffreddone
+the cough;la tosse
+the fever;la febbre
+the flu;l'influenza
+the headache;il mal di testa
+the illness;il malanno
+the insomnia;l'insomnia
+the nausea;la nausea
+the sore throat;il mal di gola
+the stomacheache;il mal di stomaco
+the symptom;il sintomo
+the toothache;il mal di denti
+the virus;il virus
+﻿the allergy;l'allergia

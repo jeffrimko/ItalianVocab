@@ -1,0 +1,16 @@
+anyone;qualcuno
+do you want;vuoi
+how much;quanto
+how;come
+no;no
+right;vero
+to whom;a chi
+what;che/che cose/cosa
+when;quando
+where;dove
+which;quale
+who;chi
+whose;di chi
+why;perche
+with whom;con chi
+yes;si

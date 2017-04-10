@@ -1,0 +1,13 @@
+black;nero
+blue;blu
+brown;marrone
+gray;grigio
+green;verde
+orange;arancione
+pink;rosa
+purple;viola
+rainbow;arcobaleno
+red;rosso
+the color;il colore
+white;bianco
+yellow;giallo

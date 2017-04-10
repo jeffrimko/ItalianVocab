@@ -1,0 +1,70 @@
+the ATM machine;il bancomat
+the airplane;l'aeroplano
+the airport;l'aeroporto
+the ambulance;l'ambulanaza
+the bank;la banca
+the bicycle;la bicicletta
+the bicycle;la bicicletta
+the boat;la barca
+the building;l'edificio
+the bus;l'autobus
+the bus;l'autobus
+the canoe;la canoa
+the car;la macchina
+the car;la macchina
+the cart;il carro
+the church;la chiesa
+the city square;la piazza
+the city/the town;la citta
+the corner;l'angolo
+the elevator;l'ascensore
+the end;la fina
+the engine;il motore
+the entrance;l'engresso
+the exit;l'uscita
+the garden;il giardino
+the helicopter;l'elicottero
+the horse;il cavallo
+the hospital;l'ospedale
+the hull;lo scafo
+the jet;il jet, l'aviogetto
+the landing gear;il carrello d'atterraggio
+the mailman;il postino
+the map;la mappa
+the market;il mercato
+the motorcycle;il motociclo
+the museum;il museo
+the officer;l'ufficiale
+the pharmacy;la farmacia
+the police;la polizia
+the post office;l'ufficio postale
+the priest;il prete
+the restaurant;il ristorante
+the road/the street;la strada/la via
+the sailboat;la barca a vela
+the sidewalk;il marciapiede
+the spaceship;l'astronave
+the store;il negozio
+the student;lo studente
+the submarine;il sottomarino
+the subway;la metropolitana
+the subway;la metropolitana
+the taxi;il taxi
+the taxi;il taxi
+the teacher;l'insegnante
+the tire;il pneumatico
+the tractor;il trattore
+the traffic;il traffico
+the train station;la stazione
+the train;il treno
+the truck;l'autocarro, il camion
+the trunk;il portabagagli
+the tugboat;il rimorchiatore
+the van;il furgone, il pulmino
+the vehicle;il veicolo
+the village;il villaggio
+the wall;il muro
+the wheel;la ruota
+the wheelchair;la sedia a rotelle
+the wing;l'ala
+the yacht;lo yacht

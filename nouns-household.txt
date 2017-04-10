@@ -1,0 +1,46 @@
+the TV;il televisore
+the armchair;la poltrona
+the bath;il bagno
+the bathtub;la vasca da bagno
+the bed;il letto
+the bench;la panchina
+the blanket;la coperta
+the bookcase;la libreria
+the broom;la scopa
+the can opener;l'apriscatole
+the carpet;il tappeto
+the chair;la sedia
+the chimney;il camino
+the clock;l'orologio
+the clothes iron;il ferro da stiro
+the cupboard;la credenza
+the curtain;la tenda
+the desk;la scrivania
+the door;la porta
+the dresser;il como
+the family room;la camera familiare
+the fireplace;il caminetto
+the footstool;il poggiapiedi
+the furniture;i mobili
+the garden;il giardino
+the gate;il cancello
+the home;la casa
+the hose;la pompa
+the igloo;l'iglu
+the kitchen;la cucina
+the lawn mower;il tagliaerba
+the light switch;l'interruttore della luce
+the lightbulb;il lampadina
+the living room;il soggiorno
+the pillow;il cuscino
+the quilt;la trapunta
+the room;la camera/la stanza
+the shelf;lo scaffale
+the shower;la doccia
+the sofa;il divano
+the stairs;le scale
+the table;il tavolo
+the tub;la vasca
+the wall;la parete
+the wastebasket;il cestino dei rifiuti
+the window;la finestra

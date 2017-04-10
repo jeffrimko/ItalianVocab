@@ -1,0 +1,5 @@
+autumn;autunno
+spring;primavera
+summer;estate
+the season;la stagione
+winter;inverno

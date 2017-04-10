@@ -1,0 +1,139 @@
+the appetizer;l'antipasto
+the apple;la mela
+the apricot;l'albicocca
+the apricot;l'albicocca
+the artichoke;il carciofo
+the asparagus;l'asparago
+the avocado;l'avocado
+the banana;la banana
+the basil;il basilico
+the beans;i fagioli
+the beef;il manzo
+the beef;la carne (di manzo)
+the beer;la birra
+the beet;la barbabietola
+the bell pepper;il peperone
+the beverage;la bevanda
+the blackberry;la mora
+the bread;il pane
+the breakfast;la colazione
+the buffet;il buffet
+the butter;il burro
+the cabbage;il cavolo
+the candy;la caramella
+the capon;il cappone
+the carrot;la carota
+the cauliflower;il cavolfiore
+the cauliflower;il cavolfiore
+the celery;il sedano
+the cheese;il formaggio
+the cherries;le ciliegie
+the cherry;la ciliegia
+the chicken;il pollo
+the chicken;il pollo
+the chickpeas;i ceci
+the coffee;il caffè
+the cookie;il biscotto
+the corn;il granoturco
+the cucumber;il cetriole
+the cucumber;il cetriolo
+the cured belly pork;la pancetta
+the dessert;il dolce
+the dinner;la cena
+the duck;l'anatra
+the egg;l'uovo
+the eggplant;la melanzana
+the fennel;il finocchio
+the fig;il fico
+the fish (cooked);il pesce (cotto)
+the flour;la farina
+the food;il cibo
+the french fries;le patatine fritte
+the fruit;la frutta
+the garlic;l'aglio
+the garlic;l'aglio
+the goose;l'oca
+the grape;l'uva
+the ham;il prosciutto
+the hamburger;l'hamburger
+the hare;la lepre
+the honey;il miele
+the honeydew;la melata
+the hotdog;l'hotdog
+the ice cream;il gelato
+the jam;la marmellata
+the jelly;la gelatina (di frutta)
+the juice;il succo
+the ketchup;il ketchup
+the lamb;l'agnello
+the leek;il porro
+the lemon;il limone
+the lemon;il limone
+the lettuce;la lattuga
+the lime;la limetta
+the lunch;il pranzo
+the main dish;la portata principale
+the mayonnaise;la maionese
+the meat;la carne
+the meat;la carne
+the melon;il melone
+the menu;il menù
+the milk;il latte
+the mushroom;il fungo
+the mustard;la mostarda
+the nut;la noce
+the nuts;le noci
+the onion;la cipolla
+the pea;il pisello
+the peach;la pesca
+the peach;la pesca
+the peanut butter;il burro di noccioline
+the peanut;la nocciolina
+the pear;la pera
+the pepper;il pepe
+the pie;la torta
+the pigeon;il piccione
+the pineapple;l'ananas
+the plum;la prugna
+the popcorn;i popcorn
+the pork;il maiale
+the pork;il maiale
+the potatoes;le patate
+the pumpkin;la zucca
+the quail;la quaglia
+the rabbit;il coniglio
+the radish;il ravanello
+the raisin;l'uvetta
+the raspberry;il lampone
+the roast suckling pig;la porchetta
+the roast;l'arrosto
+the salad;l'insalata
+the salt;il sale
+the sandwich;il panino
+the sausage;la salsiccia
+the snack;la merenda
+the soup;la minestra
+the spinach;gli spinachi
+the spinach;gli spinaci
+the steak;la bistecca
+the strawberry;la fragola
+the suckling pig;il lattonzolo
+the sugar;lo zucchero
+the tea;il tè
+the tenderloin of beef;il filetto di manzo
+the thin slice of beef (or pork or veal);la braciola
+the tomato;il pomodoro
+the tomato;il pomodoro
+the turkey;il tacchino
+the turkey;il tacchino
+the veal shank;l'ossobuco
+the vegetable;la verdura
+the venison;il cervo
+the water;l'acqua
+the watermelon;il cocomero
+the watermelon;l'anguria
+the watermelon;l'anguria
+the wild boar;il cinghiale
+the wine;il vino
+the zucchini;lo zucchino
+﻿the almond;la mandorla

@@ -1,0 +1,29 @@
+the airport;l'aeroporto
+the apartment building;il condominio
+the apartment;l'appartamento
+the bank;la banca
+the barber shop;il barbiere negozio
+the book store;la libreria
+the bowling alley;il bowling
+the church;la chiesa
+the department store;il grande magazzino
+the department store;il grande magazzino
+the elevator;l'ascensore
+the fire department;i vigili del fuoco
+the gas station;il benzinaio
+the hospital;l'ospedale
+the house;la casa
+the library;la biblioteca
+the mall;il centro commerciale
+the movie theater;il cinema
+the museum;il museo
+the office building;l'edificio per uffici
+the post office;l'ufficio postale
+the restaurant;il ristorante
+the school;la scuola
+the shop;il negozio
+the skyscraper;il grattacielo
+the supermarket;il supermercato
+the tower;la torre
+the train station;la stazione ferroviaria
+the yard;il cantiere

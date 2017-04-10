@@ -1,0 +1,13 @@
+the cash register; il registratore di cassa
+the cashier;il cassiere
+the counter;il contatore
+the employee;l'impiegato
+the gift;il regalo
+the jewelry;la gioielleria
+the mall;il centro commerciale
+the object;l'oggetto
+the purchase;l'acquisto
+the receipt;la ricevuta
+the shopping bag;la borsa della spesa
+the shopping cart;la shopping auto
+the store;il negozio

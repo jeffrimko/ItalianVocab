@@ -1,0 +1,32 @@
+the browser;il navigatore
+the button;il pulsante
+the cable;il cavo
+the computer;il computer
+the cursor;il cursore
+the data;i dati
+the desktop;il desktop
+the disk;il disco
+the email;l'email
+the error;l'error
+the file;il file
+the folder;la cartella
+the hard drive;il disco rigido
+the hardware;l'hardware
+the icon;l'icona
+the key;il tasto
+the keyboard;la tastiera
+the menu;il menu
+the monitor;il monitor
+the mouse;il mouse
+the password;la parola d'accesso
+the printer;la stampante
+the program;il programma
+the screen;lo schermo
+the software;il software
+the speakers;gli altoparlanti
+the text;il testo
+the user;l'utente
+the video;il video
+the virus;il virus
+the window;la finestra
+﻿the Internet;la rete

@@ -1,0 +1,22 @@
+the arc;l'arco
+the circle;il cerchio
+the cone;il cono
+the cylinder;il cilindro
+the ellipse;l'ellisse
+the hexagon;l'esagono
+the irregular shape;la forma irregolare
+the octagon;l'ottagono
+the oval;l'ovale
+the parallelogram;il parallelogramma
+the pentagon;il pentagono
+the plane;il piano
+the polygon;il poligono
+the pyramid;la piramide
+the rectangle;il rettangolo
+the semicircle;il semicerchio
+the sphere;la sfera
+the square;la piazza
+the star;la stella
+the trapezoid;il trapezio
+the triangle;il triangolo
+the wedge;il cuneo

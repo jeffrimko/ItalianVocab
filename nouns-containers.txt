@@ -1,0 +1,37 @@
+the backpack;lo zaino
+the bag;il sacchetto
+the baggage;il bagaglio
+the basket;il cestino
+the bin;il raccoglitore
+the bottle;la bottiglia
+the box;la casella/la scatola
+the briefcase;la valigetta
+the bucket;il secchio
+the cabinet;l'armadio
+the cage;la gabbia
+the can;il barattolo/la lattina
+the canister;il canestro
+the carton;il cartone
+the case;il caso
+the chest;la torace
+the container;il contenitore
+the crate;la cassa
+the cup;la tazza
+the dispenser;l'erogatore
+the drawer;il cassetto
+the envelope;la busta
+the flowerpot;il vaso di fiori
+the folder;la cartella
+the hole;la buca
+the jar;il barattolo
+the pipe;il tubetto/il tubo
+the sack;il sacco
+the soda can;la lattina
+the spray can;la bomboletta spray
+the suitcase;la valigia
+the treasure chest;il tesoro torace
+the trunk;il baule
+the tube;il tubo
+the vase;il vaso
+the wallet;il portafoglio
+the wastebasket;il cestino

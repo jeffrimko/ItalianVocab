@@ -1,0 +1,52 @@
+the actor;l'attore
+the archer;l'arciere
+the artist;l'artista
+the astronaut;l'astronauta
+the athlete;l'atleta
+the author;l'autore
+the authority;l'autorita
+the baby;il bambino
+the babysitter;la babysitter
+the baker;il panettiere
+the builder;il costruttore
+the chef;il cuoco
+the clown;il pagliaccio
+the coach;l'allenatore
+the connoisseur;l'intenditore
+the detective;il detective
+the doctor;il medico
+the engineer;l'ingegnere
+the expert;l'esperto
+the farmer;l'agricoltore
+the firefighter;il pompiere
+the fisherman;il pescatore
+the friend;l'amico
+the hairdresser;il parrucchiere
+the journalist;il giornalista
+the judge;il giudice
+the king;il re
+the lawyer;l'avvocato
+the magician;il mago
+the maniac;il maniaco
+the mathematician;il matematico
+the mechanic;il meccanico
+the musician;il musicista
+the nurse;l'infermiera
+the pharmacist;il farmacista
+the photographer;il fotografo
+the pilot;il pilota
+the plumber;l'idraulico
+the police officer;il poliziotto
+the politician;il politico
+the prince;il principe
+the princess;la principessa
+the queen;la regina
+the runner;il corridore
+the scientist;lo scienziato
+the soldier;il soldato
+the surgeon;il chirurgo
+the teacher;l'insegnante
+the team;la squadra
+the waiter;il cameriere
+the waitress;la cameriera
+the woman;la donna

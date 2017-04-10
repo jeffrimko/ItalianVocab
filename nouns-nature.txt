@@ -1,0 +1,30 @@
+the boulder;il masso
+the branch;la spiaggia
+the bush;il cespuglio
+the canyon;il canyon
+the cave;la grotta
+the cliff;la scogliera
+the desert;il deserto
+the dirt;la sporcizia
+the forest;la foresta
+the ground;il terreno
+the hill;la collina
+the ice;il ghiaccio
+the iceberg;l'iceberg
+the jungle;la giungla
+the lake;il lago
+the land;la terra
+the leaf;la foglia
+the mountain;la montagna
+the nature;la natura
+the peak;il picco
+the river;il fiume
+the rock;la roccia
+the root;la radice
+the sand;la sabbia
+the soil;il suolo
+the trail;la traccia
+the tree;l'albero
+the trunk; il bagagliaio
+the water;l'acqua
+the waterfall;la cascata

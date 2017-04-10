@@ -1,0 +1,37 @@
+the bamboo;il bambù
+the bark;la corteccia
+the berry;la bacca
+the bush;la bussola
+the cactus;il cactus
+the crop;il raccolto
+the daffodil;il narciso
+the daisy;la margherita
+the fern;la felce
+the flower;il fiore
+the foliage;il fogliame
+the forest;la foresta
+the fruit;la frutta
+the grain;il grano
+the grass;l'erba
+the hay;il fieno
+the herb;l'erba
+the leaf;la foglia
+the lily;il giglio
+the log;il ciocco
+the moss;il muschio
+the mushroom;il fungo
+the nut;il noce
+the petal;il petalo
+the plant;l'impianto, la pianta
+the rice;il riso
+the root;la radice
+the seed;il seme
+the shrub;l'arbusto
+the sprout;il germoglio
+the stalk;il peduncolo
+the stem;lo stelo
+the sunflower;il girasol
+the tree;l'albero
+the vine;la vite
+the wood;il legno
+﻿the acorn;la ghianda

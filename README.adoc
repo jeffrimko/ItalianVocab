@@ -1,0 +1,24 @@
+= Italian Vocab
+
+== Introduction
+This repository is a collection of Italian vocabulary words and phrases. Simple scripts are provided to help review and learn the vocab.
+
+== Requirements
+To use the provided scripts, Python 2.7/3.x is required. The following third party libraries are also required and can be installed using `pip`: auxly, qprompt.
+
+== Usage
+To use the scripts, simply execute them with a Python 2.7/3.x interpreter.
+
+To update or add new vocab words, follow these conventions:
+
+  - Vocab files use the `.txt` extension.
+  - Each line is a single vocab entry.
+  - Vocab entry lines use the format: `<english>;<italian>`
+      * Example: `hello;ciao`
+  - Synonyms are separated with a `/`.
+      * Example: `goodbye;addio/ciao`
+  - Append additional info in parenthesis.
+      * Example: `hello;buongiorno (formal)`
+
+== Contributing
+The vocab in this project may contain errors and corrections are welcome.

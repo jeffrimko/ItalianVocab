@@ -1,0 +1,42 @@
+the apron;il grembiule
+the backpack;lo zaino
+the blouse;la camicetta
+the boot;lo stivale
+the bow;il fiocco
+the bracelet;il braccialetto
+the button;il bottone
+the cap;il berretto
+the clothes;ivestiti
+the coat;il maglione
+the comb;il pettine
+the crown;la corona
+the dress shirt;la maglietta
+the dress;il vestito
+the earmuffs;il paraorecchie
+the gloves;i guanti
+the hat;il cappello
+the jacket;la giacca
+the jeans;i jeans
+the lace;il pizzo
+the mitten;le manopole
+the needle;l'ago
+the pajamas;il pigiama
+the pants;i pantaloni
+the pocket;la tasca
+the raincoat;l'impermeabile
+the sandals;i sandali
+the scarf;la sciarpa
+the shirt;la camicia
+the shoes;le scarpe
+the shorts;i pantaloncini
+the skirt;la gonna
+the socks;i calzini
+the suit;l'abito
+the sweater;il maglione
+the swimsuit;il costume da bagno
+the t-shirt;la maglietta
+the thread;il filo
+the tie;la cravatta
+the underwear;le mutandine
+the uniform;l'uniforme
+the zipper;la chiusura lampo

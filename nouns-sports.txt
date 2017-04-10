@@ -1,0 +1,24 @@
+baseball;baseball
+basketball;pallacanestro
+cricket;cricket
+cycling;ciclismo
+football;football americano
+golf;golf
+hockey;hockey
+horseback riding;equitazione
+ping pong;ping pong
+rugby;rugby
+soccer;calcio
+swimming;nuoto
+team handball;pallamano
+tennis;tennis
+the ball;la palla
+the game;la partita
+the jersey;la maglia
+the player;il giocatore
+the racquet;la racchetta
+the referee;l'arbitro
+the sporting event;l'evento sportivo
+the team;la squadra
+volleyball;pallavolo
+﻿badminton;badminton

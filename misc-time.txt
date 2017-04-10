@@ -1,0 +1,53 @@
+April;aprile
+August;agosto
+December;dicembre
+February;febbraio
+Friday;venerdì
+January;gennaio
+July;luglio
+June;giugno
+March;marzo
+May;maggio
+Monday;lunedì
+November;novembre
+October;ottobre
+Saturday;sabato
+September;settembre
+Sunday;domenica
+Thursday;giovedì
+Tuesday;martedì
+Wednesday;mercoledì
+after/afterwards;dopo
+ahead of time;in anticipo
+anniversary;anniversario
+at once/immediately;subito
+clock;orologio
+day after tomorrow;dopodomani
+day;giorno
+early;presto
+era/period;epoca
+evening;sera
+finally;infine
+hour;ora
+late;in ritardo
+limit/term;termine
+measure;misura
+minute;minuto
+moment;momento
+month;mese
+morning;mattina
+noon;mezzogiorno
+now;adesso
+occasion;volta
+on time;in orario
+period/term;periodo
+schedule;orario
+the alarm clock;la sveglia
+then;poi
+time;tempo
+today;oggi
+tomorrow;domani
+week;settimana
+when;quando
+year;anno
+yesterday;ieri
