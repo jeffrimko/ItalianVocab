@@ -1,3 +1,4 @@
+badminton;badminton
 baseball;baseball
 basketball;pallacanestro
 cricket;cricket
@@ -21,4 +22,3 @@ the referee;l'arbitro
 the sporting event;l'evento sportivo
 the team;la squadra
 volleyball;pallavolo
-﻿badminton;badminton

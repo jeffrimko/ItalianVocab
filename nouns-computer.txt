@@ -1,4 +1,5 @@
 the browser;il navigatore
+the button/the key;il tasto
 the button;il pulsante
 the cable;il cavo
 the computer;il computer
@@ -13,7 +14,6 @@ the folder;la cartella
 the hard drive;il disco rigido
 the hardware;l'hardware
 the icon;l'icona
-the key;il tasto
 the keyboard;la tastiera
 the menu;il menu
 the monitor;il monitor

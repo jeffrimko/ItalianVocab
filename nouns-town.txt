@@ -1,63 +1,78 @@
-the ATM machine;il bancomat
+the ATM;il bancomat
 the airplane;l'aeroplano
 the airport;l'aeroporto
 the ambulance;l'ambulanaza
+the apartment;l'appartamento
+the area;l'area
+the awning/the tent;la tenda
 the bank;la banca
-the bicycle;la bicicletta
+the bench;la panca
 the bicycle;la bicicletta
 the boat;la barca
 the building;l'edificio
 the bus;l'autobus
-the bus;l'autobus
 the canoe;la canoa
 the car;la macchina
-the car;la macchina
 the cart;il carro
+the cement;il cemento
 the church;la chiesa
 the city square;la piazza
 the city/the town;la citta
+the concrete;il calcestruzzo
+the construction;la construzione
 the corner;l'angolo
+the cover;la copertina
+the crossing;l'incrocio
+the district;il distretto
 the elevator;l'ascensore
 the end;la fina
-the engine;il motore
+the engine/the motor;il motore
 the entrance;l'engresso
 the exit;l'uscita
 the garden;il giardino
 the helicopter;l'elicottero
 the horse;il cavallo
 the hospital;l'ospedale
+the house;la casa
 the hull;lo scafo
 the jet;il jet, l'aviogetto
 the landing gear;il carrello d'atterraggio
 the mailman;il postino
 the map;la mappa
 the market;il mercato
+the mayor;il sindaco
 the motorcycle;il motociclo
 the museum;il museo
+the neighborhood;il vicinato
 the officer;l'ufficiale
+the pavement;il pavimento
 the pharmacy;la farmacia
 the police;la polizia
 the post office;l'ufficio postale
 the priest;il prete
+the railing;la ringhiera
 the restaurant;il ristorante
 the road/the street;la strada/la via
 the sailboat;la barca a vela
 the sidewalk;il marciapiede
+the sign;il segno
 the spaceship;l'astronave
+the station;la stazione
+the stop sign;il segnale di stop
+the stoplight/the traffic light;il semaforo
 the store;il negozio
 the student;lo studente
 the submarine;il sottomarino
 the subway;la metropolitana
-the subway;la metropolitana
-the taxi;il taxi
+the table;il tavolo/la tavola
 the taxi;il taxi
 the teacher;l'insegnante
 the tire;il pneumatico
 the tractor;il trattore
 the traffic;il traffico
-the train station;la stazione
+the train station;la stazione ferroviaria
 the train;il treno
-the truck;l'autocarro, il camion
+the truck;il camion/l'autocarro
 the trunk;il portabagagli
 the tugboat;il rimorchiatore
 the van;il furgone, il pulmino
@@ -68,3 +83,4 @@ the wheel;la ruota
 the wheelchair;la sedia a rotelle
 the wing;l'ala
 the yacht;lo yacht
+the zone;la zona

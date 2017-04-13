@@ -53,7 +53,7 @@ def sort_file(path=None):
             q.warn("Issue splitting `%s` line %u: %s" % (path, num, temp))
             sorts.append(line)
     with open(path, "w") as fo:
-        for line in sorted(sorts):
+        for line in sorted(set(sorts)):
             fo.write(line + "\n")
 
 ##==============================================================#

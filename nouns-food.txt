@@ -1,7 +1,6 @@
 the appetizer;l'antipasto
 the apple;la mela
 the apricot;l'albicocca
-the apricot;l'albicocca
 the artichoke;il carciofo
 the asparagus;l'asparago
 the avocado;l'avocado
@@ -24,12 +23,10 @@ the candy;la caramella
 the capon;il cappone
 the carrot;la carota
 the cauliflower;il cavolfiore
-the cauliflower;il cavolfiore
 the celery;il sedano
 the cheese;il formaggio
 the cherries;le ciliegie
 the cherry;la ciliegia
-the chicken;il pollo
 the chicken;il pollo
 the chickpeas;i ceci
 the coffee;il caffè
@@ -51,7 +48,6 @@ the food;il cibo
 the french fries;le patatine fritte
 the fruit;la frutta
 the garlic;l'aglio
-the garlic;l'aglio
 the goose;l'oca
 the grape;l'uva
 the ham;il prosciutto
@@ -68,13 +64,11 @@ the ketchup;il ketchup
 the lamb;l'agnello
 the leek;il porro
 the lemon;il limone
-the lemon;il limone
 the lettuce;la lattuga
 the lime;la limetta
 the lunch;il pranzo
 the main dish;la portata principale
 the mayonnaise;la maionese
-the meat;la carne
 the meat;la carne
 the melon;il melone
 the menu;il menù
@@ -86,7 +80,6 @@ the nuts;le noci
 the onion;la cipolla
 the pea;il pisello
 the peach;la pesca
-the peach;la pesca
 the peanut butter;il burro di noccioline
 the peanut;la nocciolina
 the pear;la pera
@@ -96,7 +89,6 @@ the pigeon;il piccione
 the pineapple;l'ananas
 the plum;la prugna
 the popcorn;i popcorn
-the pork;il maiale
 the pork;il maiale
 the potatoes;le patate
 the pumpkin;la zucca
@@ -123,15 +115,12 @@ the tea;il tè
 the tenderloin of beef;il filetto di manzo
 the thin slice of beef (or pork or veal);la braciola
 the tomato;il pomodoro
-the tomato;il pomodoro
-the turkey;il tacchino
 the turkey;il tacchino
 the veal shank;l'ossobuco
 the vegetable;la verdura
 the venison;il cervo
 the water;l'acqua
 the watermelon;il cocomero
-the watermelon;l'anguria
 the watermelon;l'anguria
 the wild boar;il cinghiale
 the wine;il vino

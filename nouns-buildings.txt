@@ -7,7 +7,6 @@ the book store;la libreria
 the bowling alley;il bowling
 the church;la chiesa
 the department store;il grande magazzino
-the department store;il grande magazzino
 the elevator;l'ascensore
 the fire department;i vigili del fuoco
 the gas station;il benzinaio

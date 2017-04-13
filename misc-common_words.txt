@@ -14,7 +14,7 @@ against;contro
 agreement;accordo
 ahead/forward;avanti
 air;aria
-all/each/every;ogni
+all/each/every;ogni/tutti
 already;gia
 also;anche
 american;americano
@@ -107,8 +107,7 @@ course;corso
 crisis;crisi
 cross;croce
 culture;cultura
-current;attuale
-current;corrente
+current;attuale/corrente
 dark;buio
 dear/expensive;caro
 decision;decisione
@@ -125,6 +124,7 @@ dog;cane
 down;giù
 each one;ciascuno
 each one;ognuno
+empty;vuoto
 enough;abbastanza/basta
 environment;ambiente
 even;addirittura
@@ -136,6 +136,7 @@ football (soccer);calcio
 forest;bosco
 friend;amico
 from;da
+full;pieno
 funny;buffo
 giving;dando
 god;dio
@@ -170,6 +171,7 @@ large/wide;ampio
 law;legge
 lawyer;avvocato
 light blue;azzurro
+lost;perduto/perso
 love;amore
 many/plenty;parecchio
 maybe/perhaps;magari
