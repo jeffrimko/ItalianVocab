@@ -43,6 +43,7 @@ to cancel/to erase;cancellare
 to catch;catturare
 to celebrate;celebrare
 to change;cambiare
+to charge/to exact;esigere
 to chase/to hunt;cacciare
 to check/to monitor;controllare
 to check/to verify;verificare
@@ -92,9 +93,10 @@ to determine;determinare
 to direct;dirigere
 to discuss/to talk about something;discutere
 to dislodge/to remove;rimuovere
-to distance oneself/to send away;allontanare
+to distance oneself/to remove/to send away;allontanare
 to do/to make;fare
 to draw;disegnare
+to dream;sognare
 to dress;vestire
 to drink;bere
 to dry;asciugare
@@ -123,12 +125,14 @@ to happen/to take place;accadere
 to happen;avvenire
 to happen;capitare
 to harm/to injure;nuocere
+to have lunch;pranzare
 to have to do/to owe;dovere
 to have;avere
 to help;aiutare
 to hide;nascondere
 to hit;colpire
 to hold;tenere
+to hope;sperare
 to hug;abbracciare
 to ignite/to turn on;accendere
 to increase;aumentare
@@ -139,7 +143,7 @@ to insult/to offend/to violate;offendere
 to interpret;interpretare
 to jump/to leap;saltare
 to keep;tenere
-to kill;ammazzare
+to kill;ammazzare/uccidere
 to kiss;baciare
 to kneel;inginocchiarsi
 to know/to learn/to understand;sapere
@@ -167,8 +171,8 @@ to pull;tirare
 to raise/to remove/to take off;levare
 to read;leggere
 to receive;ricevere
-to remove/to send away;allontanare
 to rent;noleggiare
+to report/to tell;raccontare
 to rest;riposare
 to restart;riavviare
 to rotate/to turn;girare
@@ -178,6 +182,7 @@ to sample/to taste;assaggiare
 to say;dire
 to search;cercare
 to see;vedere
+to send;mandare
 to sing;cantare
 to slap/to smack;schiaffeggiare
 to sleep;dormire

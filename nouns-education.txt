@@ -1,3 +1,4 @@
+the backpack;il zaino
 the concept;il concetto
 the degree/the diploma/the graduation;il the diploma/la laurea
 the evidence;la prova
@@ -5,6 +6,7 @@ the exam/the test;l'esame
 the example;l'esempio
 the explanation;la spiegazione
 the grade/the vote;il voto
+the high school;l'liceo
 the history;la storia
 the homework/the task;il compito
 the pen;la penna

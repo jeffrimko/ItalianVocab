@@ -39,6 +39,7 @@ attitude;atteggiamento
 author;autore
 authority;autorità
 automobile/car;automobile
+away/far/far away;lontano
 backyard/courtyard;cortile
 bad/wicked;cattivo
 base/basis;base
@@ -75,6 +76,7 @@ city/town;città
 civil;civile
 civilization;civiltà
 claim/law;diritto
+class/course/progress;corso
 class;classe
 clear;chiare
 clothing/dress;abito
@@ -103,7 +105,6 @@ control;controllo
 corner;angolo
 countryside;campagna
 courage;coraggio
-course;corso
 crisis;crisi
 cross;croce
 culture;cultura
@@ -129,10 +130,10 @@ enough;abbastanza/basta
 environment;ambiente
 even;addirittura
 ever/never;mai
-far/far away;lontano
 farmer/peasant;contadino
 field;campo
 football (soccer);calcio
+foreigner;straniero
 forest;bosco
 friend;amico
 from;da
@@ -157,6 +158,7 @@ hot/warm;caldo
 hotel;albergo
 how;come
 i want;voglio
+i will explain;spieghero
 i will put;mettero
 i would like;vorrei
 immediately;subito
@@ -197,15 +199,15 @@ put/put in;messo
 race/run;corsa
 rather;piuttosto
 really/truly;davvero
+reservation;prenotazione
 right;destro
 room;camera
 same;stesso
 short;basso
 sky;cielo
-so/then/well then;allora/quindi
+so/then/therefore/well then;allora/dunque/percio/pertanto/quindi
 someone;qualcuno
 soul;anima
-spieghero;i will explain
 still;buono
 straight;diritto
 subject/topic;argomento
@@ -213,9 +215,11 @@ subtitles;sottotitoli
 tall;alto
 that is;cioè
 that/what;che
+the bill/the check;il conto
 the bottom;il fondo
 the left;la sinistra
 the only;l'unica
+the place;il luogo/il posto
 the power;il potere
 the right;la destra
 the side;il lato
@@ -226,6 +230,7 @@ to;a
 today;oggi
 tomorrow;domani
 tooth;dente
+towards;verso
 treatment;cura
 tree;albero
 ugly;brutto
