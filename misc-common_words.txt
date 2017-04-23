@@ -25,7 +25,7 @@ anybody;chiunque
 anybody;nessuno
 anyhow/anyway;comunque
 anymore;piu
-anywhere/everywhere/wherever;ovunque
+anywhere/everywhere;ovunque
 appearance;aspetto
 arm;braccio
 around;attorno
@@ -131,6 +131,7 @@ environment;ambiente
 even;addirittura
 ever/never;mai
 farmer/peasant;contadino
+fat;grasso
 field;campo
 football (soccer);calcio
 foreigner;straniero
@@ -149,6 +150,7 @@ happens;succede
 hat;cappello
 heart;cuore
 help;aiuto
+here;qui
 hill;collina
 hit/impact;colpo
 home/house;casa
@@ -224,6 +226,8 @@ the power;il potere
 the right;la destra
 the side;il lato
 the top;la cima
+there;ci/la/li
+thin;magro
 thing/what;cosa
 through;attraverso
 to;a
@@ -238,6 +242,7 @@ very much;assai
 wait;attesa
 water;acqua
 weapon;arma
+wherever;dovunque
 white;bianco
 who knows;chissà
 who;chi
