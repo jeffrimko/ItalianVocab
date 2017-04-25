@@ -1,14 +1,20 @@
+any;qualsiasi
 anyone;qualcuno
 do you want;vuoi
+few;alcuni/pochi
 how much;quanto
 how;come
 no;no
 right;vero
+some;qualche
+something;qualcosa
+then;quindi
 to whom;a chi
 what;che/che cose/cosa
+whatever;qualsivoglia
 when;quando
 where;dove
-which;quale
+which;cui/quale
 who;chi
 whose;di chi
 why;perche

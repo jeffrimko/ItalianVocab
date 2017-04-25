@@ -1,5 +1,6 @@
 a few/any/some;qualche
 a lot/many;parecchia
+a lot;un sacco
 able/capable/skilled;capace
 about;circa
 absolute;assoluto
@@ -196,6 +197,7 @@ on the contrary;anzi
 opposite;di fronte
 other;altro
 outside;fuori
+over there;laggiù
 paper;carta
 put/put in;messo
 race/run;corsa
