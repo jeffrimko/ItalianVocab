@@ -1,6 +1,6 @@
 a few/any/some;qualche
 a lot/many;parecchia
-a lot;un sacco
+a lot;un sacco (lit. a sack)
 able/capable/skilled;capace
 about;circa
 absolute;assoluto
