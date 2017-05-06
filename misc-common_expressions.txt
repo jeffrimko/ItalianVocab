@@ -1,34 +1,46 @@
+I ask you;la prego di
+I cannot wait;non vedo l'ora
+I don't see anything;non vedo nulla
+I don't understand;non capisco/non ho capito
+I told you so;te l'avevo detto io
+I understand perfectly;capisco benissimo
 accidental hero;eroe per caso
 according/depending;in base
 as promised;come promesso
 by chance;per caso
 come here;venga qui
+correct/to be right;avere ragione
 excuse me;scusi
+fleeting moment;attimo fuggente
 forget it;lascia perdere
 gold medal;medaglia d'oro
-goodbye;arrivederci
-hello;buon giorno
+good luck (lit: in the mouth of the wolf);in bocca al lupo
+goodbye (formal);arrivederci
+hardly ever;ogni morte di papa
+hello (formal);buongiorno
 here they are;sono queste qua
-i ask you;la prego di
-i cannot wait;non vedo l'ora
-i don't see anything;non vedo nulla
+how boring (lit: what a beard);che barba
+how much?;quanto?
+how was it;com'era
 keep the door closed;tieni la porta chiusa
 like new;come nueovo
 live and learn;vivete e imparate
 on the very day in which;proprio nel giorno in cui
 please;per favore/per piacere
-sorry;mi dispiace/mi spiace
+sorry;mi dispiace/mi spiace/scusi
 tell me more;dimmi di piu
+thank you very much;grazie tante
 thank you;grazie
+that is irrelevant;non c'entra
 there are;ci sono
-to be afraid (of);avere paura (di)
+time is money;il tempo è denaro
+to be afraid of;avere paura di
 to be at stake;essere in gioco
 to be broke;essre al verde
 to be cold;avere freddo
 to be happy;essere felice
 to be hungry;avere fame
 to be in a hurry;avere fretta
-to be right, correct;avere ragione
 to be sad;essere triste
 to be sleepy;avere sonno
 to be thirsty;avere sete
@@ -36,10 +48,17 @@ to be tired;essere stanco
 to be warm (hot);avere caldo
 to be wrong;avere torto
 to daydream;essere nelle nuvole
+to feel like/to want;avere voglia di
 to have need of;avere bisogno di
-to want, to feel like;avere voglia di
+to kid/to tease (lit: to take in a circle);prendere in giro
+try to;cerca di
 use mine;usate il mio
 wait a moment;aspetta un momento
+what a mess/what a racket/what chaos;che casino
+what is this?;che cos'è questo?
 what you already know;cosa gia sapete
+who cares;me ne frega
 who discovered;che ha scoperto
+yes okay;si dai
+you too;pure tu
 you're welcome;prego

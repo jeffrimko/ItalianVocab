@@ -1,7 +1,7 @@
 he;lui
 her/it/you (direct);la
 herself/whether (prepositional);se
-him, it (direct);lo
+him/it (direct);lo
 himself/oneself (direct);si
 it (prepositional);essa/esso
 it/to him (indirect);gli
