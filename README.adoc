@@ -4,10 +4,10 @@
 This repository is a collection of Italian vocabulary words and phrases. Simple scripts are provided to help review and learn the vocab.
 
 == Requirements
-To use the provided scripts, Python 2.7/3.x is required. The following third party libraries are also required and can be installed using `pip`: auxly, qprompt.
+To use the provided scripts, Python 3.x is required. The following third party libraries are also required and can be installed using `pip`: auxly, qprompt.
 
 == Usage
-To use the scripts, simply execute them with a Python 2.7/3.x interpreter.
+To use the scripts, simply execute them with a Python 3.x interpreter.
 
 To update or add new vocab words, follow these conventions:
 
