@@ -29,4 +29,3 @@ the user;l'utente
 the video;il video
 the virus;il virus
 the window;la finestra
-﻿the Internet;la rete
