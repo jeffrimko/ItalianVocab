@@ -15,8 +15,8 @@ anyway/however/in any case/though;comunque
 as;come
 at that time/then;allora
 at;a
-because/for;perch√©
-because;perch√©
+because/for;perchÈ
+because;perchÈ
 before;prima
 between;tra
 but/except;eccetto
@@ -41,7 +41,7 @@ he;lui
 here;qua
 how;come
 if;se
-in order that/so;perch√©
+in order that/so;perchÈ
 in;in
 keep;tenere
 let;permettere
@@ -76,7 +76,7 @@ take;prendere
 than;che
 that;che
 the;il
-there;l√†
+there;l‡
 this;questo
 through;attraverso
 till;fino
@@ -94,9 +94,9 @@ when;quando
 where;dove
 while;mentre
 who;chi
-why;perch√©
-will;volont√†
+why;perchÈ
+will;volont‡
 with;con
-yes;s√¨
+yes;sÏ
 yesterday;ieri
 you;tu

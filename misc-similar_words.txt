@@ -1,7 +1,5 @@
 church;chiesa
 clear;chiare
-la zucca;the pumpkin
-la zuppa;the soup
 rather;piuttosto
 seven;sette
 soon;tosto
@@ -9,6 +7,8 @@ the cabbage;il cavallo
 the horse;il cavolo
 the least;il meno
 the menu;il menu
+the pumpkin;la zucca
+the soup;la zuppa
 the time;il tempo
 the weather;il tempo
 thirst;sete

@@ -17,7 +17,7 @@ the icon;l'icona
 the keyboard;la tastiera
 the menu;il menu
 the monitor;il monitor
-the mouse;il mouse
+the mouse (for computer);il mouse
 the password;la parola d'accesso
 the printer;la stampante
 the program;il programma

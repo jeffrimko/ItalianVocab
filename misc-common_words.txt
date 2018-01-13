@@ -7,7 +7,7 @@ absolute;assoluto
 account;conto
 act;atto
 action;azione
-activity;attivit√†
+activity;attivit‡
 actor;attore
 advice/reccommendation/suggestion;consiglio
 after;dopo
@@ -40,7 +40,7 @@ at least;almeno
 attention;attenzione
 attitude;atteggiamento
 author;autore
-authority;autorit√†
+authority;autorit‡
 automobile/car;automobile
 away/far/far away;lontano
 backyard/courtyard;cortile
@@ -78,16 +78,16 @@ child;bambino
 christian;cristiano
 church;chiesa
 citizen;cittadino
-city/town;citt√†
+city/town;citt‡
 civil;civile
-civilization;civilt√†
+civilization;civilt‡
 claim/law;diritto
 class/course/progress;corso
 class;classe
 clear;chiare
 clothing/dress;abito
 coast;costa
-coffee;caff√®
+coffee;caffË
 color;colore
 come on/really;dai
 comfortable;comodo
@@ -123,13 +123,13 @@ defense;difesa
 destine;destino
 difference;differenza
 difficult;difficile
-difficulty;difficolt√†
+difficulty;difficolt‡
 direct;diretto
 direction;direzione
 director;direttore
 discourse/speech/talk;discorso
 dog;cane
-down;gi√π
+down;gi˘
 each one;ciascuno
 each one;ognuno
 empty;vuoto
@@ -169,6 +169,7 @@ horse;cavallo
 hot/warm;caldo
 hotel;albergo
 how;come
+i don't know;boh
 i want;voglio
 i will explain;spieghero
 i will put;mettero
@@ -210,7 +211,7 @@ on;sopra/su
 opposite;di fronte
 other;altro
 outside;fuori
-over there;laggi√π
+over there;laggi˘
 paper;carta
 put/put in;messo
 race/run;corsa
@@ -230,7 +231,8 @@ straight;diritto
 subject/topic;argomento
 subtitles;sottotitoli
 tall;alto
-that is;cio√®
+that is/therefore;cioe
+that is;cioË
 that/what;che
 the bill/the check;il conto
 the bottom;il fondo
@@ -255,6 +257,7 @@ towards;verso
 treatment;cura
 tree;albero
 ugly;brutto
+unfortunately;purtroppo
 very much;assai
 wait;attesa
 water;acqua
@@ -262,10 +265,12 @@ weapon;arma
 well (filler word);mah (filler word)
 wherever;dovunque
 white;bianco
-who knows;chiss√†
+who knows;chiss‡
 who;chi
 wish;desiderio
 with;con
+wonderful; che meraviglia
+wonderful; meraviglioso
 world;mondo
 year;anno
 yesterday;ieri

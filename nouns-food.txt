@@ -80,8 +80,8 @@ the nuts;le noci
 the onion;la cipolla
 the pea;il pisello
 the peach;la pesca
-the peanut butter;il burro di noccioline
-the peanut;la nocciolina
+the peanut butter;il burro di arachidi/il burro di noccioline
+the peanut;l'arachide/la nocciolina
 the pear;la pera
 the pepper;il pepe
 the pie;la torta

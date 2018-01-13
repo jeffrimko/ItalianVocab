@@ -1,3 +1,4 @@
+I am told;mi viene detto
 I ask you;la prego di
 I cannot wait;non vedo l'ora
 I don't see anything;non vedo nulla
@@ -9,6 +10,7 @@ according/depending;in base
 as promised;come promesso
 by chance;per caso
 come here;venga qui
+cool/neat (lit: what a fig);che fico
 correct/to be right;avere ragione
 excuse me;scusi
 fleeting moment;attimo fuggente
@@ -22,6 +24,7 @@ here they are;sono queste qua
 how boring (lit: what a beard);che barba
 how much?;quanto?
 how was it;com'era
+if we want;se vogliamo
 keep the door closed;tieni la porta chiusa
 like new;come nueovo
 live and learn;vivete e imparate

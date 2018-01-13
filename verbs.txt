@@ -23,6 +23,7 @@ to assure/to ensure/to insure;assicurare
 to attack/to stick;attaccare
 to attempt/to try;provare/tentare
 to attire/to rig;abbigliare
+to be able/to manage/to succeed;riuscire
 to be able;potere
 to be enough/to suffice;bastare
 to be;essere
@@ -31,6 +32,7 @@ to beat;battere
 to believe;credere
 to belong;appartenere
 to bite;mordere
+to block;bloccare
 to book/to reserve;prenotare
 to break off/to smash/to suppress;stroncare
 to bring/to carry;portare
@@ -105,6 +107,7 @@ to eat;mangiare
 to eliminate;eliminare
 to enjoy;godere
 to equip;equipaggiare
+to exit/to get out/to go out;uscire
 to experience/to know/to meet;conoscere
 to experiment;sperimentare
 to explain;spiegare
@@ -116,6 +119,7 @@ to find;trovare
 to fire/to shoot;sparare
 to fit/to put on;calzare
 to flee;fuggire
+to float;fluttare
 to follow;seguire
 to force;costringere
 to forget;dimenticare
@@ -166,11 +170,14 @@ to medicate/to treat;medicare
 to meet;incontrare
 to miss;mancare
 to mistake;sbagliare
+to move/to shift;spostare
 to need;bisognare
+to note/to notice;notare
 to notice;accorgersi
 to offer/to propose;proporre
 to open;aprire
 to place;mettere
+to plan;pianificare
 to pour;versare
 to prepare;preparare
 to promise;promettere
@@ -204,6 +211,7 @@ to surprise;sorprendere
 to surround;circondare
 to take care of;badare
 to test/to try out;collaudare
+to thank;ringraziare
 to think;pensare
 to throw/to throw away;buttare
 to throw;gettare
