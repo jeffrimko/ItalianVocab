@@ -61,7 +61,7 @@ def practice_it2en():
     lines = [line.strip() for line in open(path).readlines() if line]
     random.shuffle(lines)
     for line in lines:
-        line = unicodedata.normalize('NFKD', line.decode("utf-8")).encode('ascii','ignore').strip()
+        line = unicodedata.normalize('NFKD', line).encode('ascii','ignore').decode("utf-8").strip()
         if not line: continue
         en,it = line.split(";")
         while True:
@@ -83,7 +83,7 @@ def practice_en2it():
     lines = [line.strip() for line in open(path).readlines() if line]
     random.shuffle(lines)
     for line in lines:
-        line = unicodedata.normalize('NFKD', line.decode("utf-8")).encode('ascii','ignore').strip()
+        line = unicodedata.normalize('NFKD', line).encode('ascii','ignore').decode("utf-8").strip()
         if not line: continue
         en,it = line.split(";")
         msg = en

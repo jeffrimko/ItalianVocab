@@ -17,9 +17,13 @@ from _Review_Vocab import ask_file
 ##==============================================================#
 
 def sort_all():
+    okay = True
     for f in os.listdir("."):
         if f.endswith(".txt"):
-            q.status("Sorting `%s`..." % f, sort_file, [f])
+            okay &= q.status("Sorting `%s`..." % f, sort_file, [f])
+    msg = "All files sorted successfully." if okay else "Issue sorting some files!"
+    char = "-" if okay else "!"
+    q.wrap(msg, char=char)
 
 def sort_file(path=None):
     if not path:
@@ -30,6 +34,7 @@ def sort_file(path=None):
     with open(path) as fi:
         lines = fi.readlines()
     sorts = []
+    okay = True
     for num,line in enumerate(lines):
         line = line.strip()
         try:
@@ -49,12 +54,14 @@ def sort_file(path=None):
             it = "/".join(sorted(it.split("/")))
             sorts.append("%s%s;%s%s" % (en,enx,it,itx))
         except:
+            okay = False
             temp = unicodedata.normalize('NFKD', line.decode("utf-8")).encode('ascii','ignore').strip()
             q.warn("Issue splitting `%s` line %u: %s" % (path, num, temp))
             sorts.append(line)
     with open(path, "w") as fo:
         for line in sorted(set(sorts)):
             fo.write(line + "\n")
+    return okay
 
 ##==============================================================#
 ## SECTION: Main Body                                           #
