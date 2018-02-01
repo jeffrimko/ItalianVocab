@@ -3,7 +3,7 @@
 ##==============================================================#
 
 import os
-import random
+import random; random.seed()
 import unicodedata
 
 import auxly.filesys as fsys
@@ -101,18 +101,24 @@ def practice_en2it():
                 if not redo:
                     break
 
-def hint_vocab(vocab, hintnum):
-    letters = []
-    for lnum,char in enumerate(vocab):
-        if char != " ":
-            letters.append(lnum)
-    random.shuffle(letters)
+def hint_vocab(vocab, hintnum, skipchars=" /'"):
+    """Returns the given string with all characters expect the given hint
+    number replaced with an asterisk. The given skip characters will be
+    excluded."""
+    random.seed()
+    idx = []
+    if len(vocab) < hintnum:
+        return vocab
+    while len(idx) < hintnum:
+        cidx = random.randrange(0, len(vocab))
+        if vocab[cidx] not in skipchars and cidx not in idx:
+            idx.append(cidx)
     hint = vocab
-    hints = len(vocab) - hintnum
-    if hints <= 0:
-        hints = 1
-    for lnum in letters[:hints]:
-        hint = stridxrep(hint, lnum, "*")
+    for i,c in enumerate(vocab):
+        if c in skipchars:
+            continue
+        if i not in idx:
+            hint = stridxrep(hint, i, "*")
     return hint
 
 ##==============================================================#
