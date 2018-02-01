@@ -11,6 +11,7 @@ bad;cattivo
 beautiful;bello
 better;megliore
 big;grande
+blazing/bright;sfolgorante
 bold/daring;audace
 bored;annoiato
 boring/tedious;noioso

@@ -17,6 +17,7 @@ to arm;armare
 to arrest/to stop;arrestare
 to arrive;arrivare
 to ask;chiedere
+to assess/to evaluate;valutare
 to assist;assistere
 to assume/to hire;assumere
 to assure/to ensure/to insure;assicurare
@@ -29,6 +30,7 @@ to be enough/to suffice;bastare
 to be;essere
 to beat/to whip/to whisk;sbattere
 to beat;battere
+to become;diventare
 to believe;credere
 to belong;appartenere
 to bite;mordere
@@ -150,6 +152,7 @@ to inhabit/to live;abitare
 to insinuate/to suggest;insinuare
 to insult/to offend/to violate;offendere
 to interpret;interpretare
+to judge;giudicare
 to jump/to leap;saltare
 to keep;tenere
 to kill;ammazzare/uccidere
@@ -157,6 +160,7 @@ to kiss;baciare
 to kneel;inginocchiarsi
 to know/to learn/to understand;sapere
 to lean;appoggiare
+to leave;lasciare
 to lie;mentire
 to lift/to rise;alzare
 to light;illuminare
@@ -176,7 +180,7 @@ to note/to notice;notare
 to notice;accorgersi
 to offer/to propose;proporre
 to open;aprire
-to place;mettere
+to place/to put;mettere
 to plan;pianificare
 to pour;versare
 to prepare;preparare
@@ -189,6 +193,7 @@ to rent;noleggiare
 to report/to tell;raccontare
 to rest;riposare
 to restart;riavviare
+to return;tornare
 to rotate/to turn;girare
 to ruin/to spoil;guastare
 to run;correre
@@ -210,6 +215,7 @@ to suggest;suggerire
 to surprise;sorprendere
 to surround;circondare
 to take care of;badare
+to take;prendere
 to test/to try out;collaudare
 to thank;ringraziare
 to think;pensare
