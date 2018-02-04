@@ -180,12 +180,14 @@ to note/to notice;notare
 to notice;accorgersi
 to offer/to propose;proporre
 to open;aprire
+to park;parcheggiare
 to place/to put;mettere
 to plan;pianificare
 to pour;versare
 to prepare;preparare
 to promise;promettere
 to pull;tirare
+to push;spingere
 to raise/to remove/to take off;levare
 to read;leggere
 to receive;ricevere
