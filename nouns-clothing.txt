@@ -31,6 +31,7 @@ the shoes;le scarpe
 the shorts;i pantaloncini
 the skirt;la gonna
 the socks;i calzini
+the string;il spago
 the suit;l'abito
 the sweater;il maglione
 the swimsuit;il costume da bagno

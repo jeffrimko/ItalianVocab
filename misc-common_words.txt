@@ -63,6 +63,7 @@ bright/clear;chiaro
 building/construction;costruzione
 business;affare
 but;ma
+by now;ormai
 careful;attento
 case;caso
 catholic;cattolico
@@ -112,6 +113,7 @@ control;controllo
 corner;angolo
 countryside;campagna
 courage;coraggio
+cover charge (at a restaurant)/coperto
 crisis;crisi
 cross;croce
 culture;cultura
@@ -225,6 +227,7 @@ short;basso
 sky;cielo
 so/then/therefore/well then;allora/dunque/percio/pertanto/quindi
 someone;qualcuno
+sorry;scusi/spiacente
 soul;anima
 still;buono
 straight;diritto
