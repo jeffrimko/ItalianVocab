@@ -55,7 +55,7 @@ def sort_file(path=None):
             sorts.append("%s%s;%s%s" % (en,enx,it,itx))
         except:
             okay = False
-            temp = unicodedata.normalize('NFKD', line.decode("utf-8")).encode('ascii','ignore').strip()
+            temp = unicodedata.normalize('NFKD', line).encode('ascii','ignore').strip()
             q.warn("Issue splitting `%s` line %u: %s" % (path, num, temp))
             sorts.append(line)
     with open(path, "w") as fo:
