@@ -3,11 +3,14 @@
 ##==============================================================#
 
 import os
+import string
 import random; random.seed()
 import unicodedata
 
 import qprompt as q
 from auxly.filesys import File, delete
+from gtts import gTTS
+from playsound import playsound
 
 ##==============================================================#
 ## SECTION: Global Definitions                                  #
@@ -23,12 +26,22 @@ RANDOM_VOCAB = "__temp-random_vocab.txt"
 
 stridxrep = lambda s, i, r: "".join([(s[x] if x != i else r) for x in range(len(s))])
 
+randstr = lambda length: "".join(random.choice(string.ascii_lowercase) for _ in range(length))
+
 def ask_file(msg="File to review"):
+    """Prompts user for a file to review. Returns the file name."""
     path = q.ask_str(msg, blk=True)
     if not path or not os.path.isfile(path):
         vfiles = [f for f in os.listdir(".") if f.endswith(".txt")]
         path = q.enum_menu(vfiles).show(returns="desc", limit=20)
     return path
+
+def pronounce_it(text, slow=False):
+    """Pronouces the given text in Italian."""
+    fpath = f"__temp-pronounce_it-{randstr(6)}.mp3"
+    gTTS(text=text, lang="it", slow=slow).save(fpath)
+    playsound(fpath)
+    delete(fpath)
 
 def make_random_file(num=20):
     vocabs = []
@@ -64,6 +77,7 @@ def practice_it2en():
             line = unicodedata.normalize('NFKD', line).encode('ascii','ignore').decode("utf-8").strip()
             if not line: continue
             en,it = line.split(";")
+            pronounce_it(it)
             while True:
                 ans = q.ask_str(it).lower().strip()
                 ok = [x.lower().strip() for x in en.split("(")[0].split("/")]
