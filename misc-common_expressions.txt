@@ -5,6 +5,7 @@ I don't see anything;non vedo nulla
 I don't understand;non capisco/non ho capito
 I told you so;te l'avevo detto io
 I understand perfectly;capisco benissimo
+a little further;poco più in l�
 accidental hero;eroe per caso
 according/depending;in base
 as promised;come promesso
@@ -60,6 +61,7 @@ to kid/to tease (lit: to take in a circle);prendere in giro
 try to;cerca di
 use mine;usate il mio
 wait a moment;aspetta un momento
+weight loss;perdita di peso
 what a mess/what a racket/what chaos;che casino
 what is this?;che cos'è questo?
 what you already know;cosa gia sapete

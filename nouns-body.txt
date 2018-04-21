@@ -33,5 +33,6 @@ the toe;il dito del piede
 the tongue;la lingua
 the tooth;il dente
 the waist;la vita
+the weight;il peso
 the wrinkle;la ruga
 the wrist;il polso

@@ -113,7 +113,7 @@ control;controllo
 corner;angolo
 countryside;campagna
 courage;coraggio
-cover charge (at a restaurant)/coperto
+cover charge (at a restaurant);coperto
 crisis;crisi
 cross;croce
 culture;cultura
@@ -167,6 +167,7 @@ hill;collina
 hit/impact;colpo
 home/house;casa
 honey/sweaty;tesoro
+hopefully;fiduciosamente
 horse;cavallo
 hot/warm;caldo
 hotel;albergo
@@ -239,6 +240,7 @@ that is;cioè
 that/what;che
 the bill/the check;il conto
 the bottom;il fondo
+the challenge;la sfida
 the curse word/the swear word;la parolaccia
 the left;la sinistra
 the only;l'unica
