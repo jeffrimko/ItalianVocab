@@ -3,13 +3,14 @@
 ##==============================================================#
 
 import os
-import string
 import random; random.seed()
+import string
 import unicodedata
+from collections import namedtuple
 from threading import Thread, Lock
 
-import related
 import qprompt as q
+import related
 from auxly.filesys import File, delete
 from gtts import gTTS
 from playsound import playsound
@@ -24,6 +25,8 @@ RANDOM_VOCAB = "__temp-random_vocab.txt"
 
 TALK_LOCK = Lock()
 
+Setting = namedtuple('Setting', 'name func conf')
+
 ##==============================================================#
 ## SECTION: Global Definitions                                  #
 ##==============================================================#
@@ -33,18 +36,18 @@ class LanguageName(object):
     short = related.StringField(default="en")
     full = related.StringField(default="English")
 
-@related.immutable
+@related.mutable
 class LanguageInfo(object):
     name = related.ChildField(LanguageName)
     talk = related.BooleanField(default=False)
     hint = related.IntegerField(default=0)
 
-@related.immutable
+@related.mutable
 class TextInfo(object):
     text = related.StringField()
     lang = related.ChildField(LanguageInfo)
 
-@related.immutable
+@related.mutable
 class PracticeConfig(object):
     lang1 = related.ChildField(LanguageInfo)
     lang2 = related.ChildField(LanguageInfo)
@@ -53,7 +56,7 @@ class PracticeConfig(object):
     redo = related.BooleanField(default=False)
     swap = related.BooleanField(default=False)
 
-@related.immutable
+@related.mutable
 class UtilConfig(object):
     lang1 = related.ChildField(LanguageInfo)
     lang2 = related.ChildField(LanguageInfo)
@@ -70,16 +73,13 @@ class Practice(object):
     def start(self):
         self.miss = set()
         self.okay = set()
-        path = self.config.path or get_file()
+        path = get_file(self.config.path)
         lines = [line.strip() for line in File(path).readlines() if line][:self.config.num]
         random.shuffle(lines)
-        try:
-            for (num, line) in enumerate(lines):
-                q.hrule()
-                q.echo("%s of %s" % (num+1, len(lines)))
-                self._ask(line)
-        except:
-            q.echo()
+        for (num, line) in enumerate(lines):
+            q.hrule()
+            q.echo("%s of %s" % (num+1, len(lines)))
+            self._ask(line)
         fmiss = File(MISSED_VOCAB)
         for miss in self.miss:
             fmiss.append(miss + "\n")
@@ -130,21 +130,33 @@ def run_once(f):
     wrapper.has_run = False
     return wrapper
 
-def get_file():
+def try_catch(f, oncatch=None, rethrow=False):
+    def wrapper(*args, **kwargs):
+        try:
+            return f(*args, **kwargs)
+        except:
+            print()
+            if oncatch != None:
+                oncatch()
+            if rethrow:
+                raise
+    return wrapper
+
+def get_file(path="."):
     menu = q.Menu()
     menu.add("f", "Select file")
     menu.add("r", "Random vocab")
     choice = menu.show()
     if "f" == choice:
-        return ask_file()
+        return ask_file(path)
     else:
         return make_random_file()
 
-def ask_file(msg="File to review (blank to list)"):
+def ask_file(dpath, msg="File to review (blank to list)"):
     """Prompts user for a file to review. Returns the file name."""
     path = q.ask_str(msg, blk=True)
     if not path or not os.path.isfile(path):
-        vfiles = [f for f in os.listdir(".") if f.endswith(".txt")]
+        vfiles = [f for f in os.listdir(dpath) if f.endswith(".txt")]
         path = q.enum_menu(vfiles).show(returns="desc", limit=20)
     return path
 
@@ -156,10 +168,13 @@ def talk(text, lang, slow=False, wait=False):
             gTTS(text=text, lang=lang, slow=slow).save(fpath)
             playsound(fpath)
             delete(fpath)
-    t = Thread(target=_talk)
-    t.start()
-    if wait:
-        t.join()
+    try:
+        t = Thread(target=_talk)
+        t.start()
+        if wait:
+            t.join()
+    except:
+        q.warn("Could not talk at this time.")
 
 def make_random_file(num=20):
     vocabs = []
@@ -181,8 +196,10 @@ def hint(vocab, hintnum, skipchars=" /'"):
     excluded."""
     random.seed()
     idx = []
-    if len(vocab) < hintnum:
-        return vocab
+    if len(vocab) <= hintnum:
+        hintnum -= 1
+    if hintnum < 1:
+        hintnum = 1
     while len(idx) < hintnum:
         cidx = random.randrange(0, len(vocab))
         if vocab[cidx] not in skipchars and cidx not in idx:
@@ -197,28 +214,38 @@ def hint(vocab, hintnum, skipchars=" /'"):
 
 def main():
     config = related.to_model(UtilConfig, related.from_yaml(File("config.yaml").read()))
-    try:
-        show_main_menu(config)
-    except:
-        pass
+    util = Util(config)
+    try_catch(util.main_menu)()
 
-def show_main_menu(config):
-    menu = q.Menu()
-    p1 = PracticeConfig(
-            lang1 = config.lang1,
-            lang2 = config.lang2,
-            redo = config.redo,
-            num = config.num)
-    p2 = PracticeConfig(
-            lang1 = config.lang1,
-            lang2 = config.lang2,
-            redo = config.redo,
-            num = config.num,
-            swap = True)
-    menu.add("1", "%s to %s" % (config.lang1.name.full, config.lang2.name.full), Practice(p1).start)
-    menu.add("2", "%s to %s" % (config.lang2.name.full, config.lang1.name.full), Practice(p2).start)
-    menu.add("d", "Delete missed words to review", delete, [MISSED_VOCAB])
-    menu.main(loop=True)
+class Util(object):
+    def __init__(self, config):
+        self.config = config
+
+    def main_menu(self):
+        def start(swap=False):
+            p = PracticeConfig(swap=swap, **related.to_dict(self.config))
+            try_catch(Practice(p).start)()
+        menu = q.Menu()
+        menu.add("1", f"{self.config.lang1.name.full} to {self.config.lang2.name.full}", start, [False])
+        menu.add("2", f"{self.config.lang2.name.full} to {self.config.lang1.name.full}", start, [True])
+        menu.add("d", "Delete missed words to review", delete, [MISSED_VOCAB])
+        menu.add("s", "Settings", try_catch(self.settings_menu))
+        menu.main(loop=True)
+
+    def settings_menu(self):
+        def change(s):
+            default = getattr(s.conf, s.name)
+            setattr(s.conf, s.name, s.func(f"{s.name.capitalize()}", default=default))
+        settings = [
+                Setting("redo", q.ask_yesno, self.config),
+                Setting("num", q.ask_int, self.config),
+                Setting("hint", q.ask_int, self.config.lang2),
+                Setting("talk", q.ask_yesno, self.config.lang2)]
+        menu = q.Menu()
+        for s in settings:
+            menu.add(s.name[0], s.name.capitalize(), change, [s])
+        menu.add("p", "Print", print, [self.config])
+        menu.main(loop=True)
 
 ##==============================================================#
 ## SECTION: Main Body                                           #
