@@ -85,7 +85,7 @@ class Practice(object):
             fmiss.append(miss + "\n")
 
     def _ask(self, line):
-        line = unicodedata.normalize('NFKD', line).encode('ascii','ignore').decode("utf-8").strip()
+        line = unicodedata.normalize('NFKD', line).encode('ascii','replace').decode("utf-8").strip()
         if not line: return
         qst = TextInfo(line.split(";")[0], self.config.lang1)
         ans = TextInfo(line.split(";")[1], self.config.lang2)
@@ -187,7 +187,7 @@ def make_random_file(num=20):
         vocab = lines[linenum]
         if vocab not in vocabs:
             vocabs.append(vocab)
-    File(RANDOM_VOCAB).write("\n".join(vocabs))
+    File(RANDOM_VOCAB, del_at_exit=True).write("\n".join(vocabs))
     return RANDOM_VOCAB
 
 def hint(vocab, hintnum, skipchars=" /'"):
