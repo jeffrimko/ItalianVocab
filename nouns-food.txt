@@ -104,6 +104,7 @@ the salt;il sale
 the sandwich;il panino
 the sausage;la salsiccia
 the snack;la merenda
+the soda;la gassosa
 the soup;la minestra
 the spinach;gli spinachi
 the spinach;gli spinaci

@@ -1,0 +1,87 @@
+Can I have a raise?;Posso avere un aumento?
+Can I help you?;Posso aiutarti?
+Can I leave a message?;Posso lasciare un messaggio?
+Can I leave the meeting for a moment?;Posso lasciare l'incontro per un momento?
+Can I plug in my laptop?;Posso collegare il mio portatile?
+Can I see his resume?;Posso vedere il suo curriculum?
+Can everyone hear the presenter?;Tutti possono ascoltare il presentatore?
+Can we borrow the company car?;Possiamo prendere in prestito l'auto aziendale?
+Can we break for lunch?;Possiamo rompere per pranzo?
+Can you make more coffee?;Puoi fare più caffè?
+Can you repeat that please?;Puoi ripetere per favore?
+Can you share what you learned?;Puoi condividere ciò che hai imparato?
+Do we have a water cooler?;Abbiamo un refrigeratore d'acqua?
+Have you done this type of work before?;Hai già fatto questo tipo di lavoro?
+He arrived late to the meeting.;È arrivato in ritardo alla riunione.
+He is down the hall to the left.;È in fondo alla sala a sinistra.
+He is my colleague.;Lui è il mio collega.
+He will get promoted.;Otterrà la promozione.
+Her wage is quite high.;La sua paga è piuttosto alta.
+His commute is very short.;Il suo tragitto è molto breve.
+His desk is against the wall.;La sua scrivania è contro il muro.
+His handwriting is very good.;La sua calligrafia è molto buona.
+His last day of work is tomorrow.;Il suo ultimo giorno di lavoro è domani.
+His office has no windows.;Il suo ufficio non ha finestre.
+How long until the meeting starts?;Quanto tempo durerà fino all'inizio della riunione?
+How many years of experience does she have?;Quanti anni di esperienza ha?
+How was the training?;Com'è stato l'allenamento?
+I can type without looking at the keyboard.;Posso digitare senza guardare la tastiera.
+I could use a vacation.;Potrei usare una vacanza.
+I got a promotion.;Ho una promozione.
+I like my new job better than my last job.;Mi piace il mio nuovo lavoro meglio del mio ultimo lavoro.
+I need help with this assignment.;Ho bisogno di aiuto con questo incarico.
+I need to take a break.;Ho bisogno di fare una pausa.
+I spilled some coffee on the papers.;Ho versato del caffè sui giornali.
+I will go on vacation next week.;Andrò in vacanza la prossima settimana.
+I would like to take a break.;Vorrei fare una pausa.
+My boss is very difficult to work with.;Il mio capo è molto difficile da lavorare.
+My computer does not work.;Il mio computer non funziona.
+My coworkers are friendly.;I miei colleghi sono amichevoli.
+My keyboard is broken.;La mia tastiera è rotta.
+My manager works too hard.;Il mio manager lavora troppo.
+My office has a nice view.;Il mio ufficio ha una bella vista.
+My office is just past the conference room.;Il mio ufficio è appena passato la sala conferenze.
+My salary is too low.;Il mio stipendio è troppo basso
+Please keep track of your time.;Si prega di tenere traccia del tuo tempo.
+Please make me a copy of this report.;Per favore, fammi una copia di questo rapporto.
+Please print out this report.;Si prega di stampare questo rapporto.
+Please work on this right away.;Si prega di lavorare su questo subito.
+She already knows about that.;Lei lo sa già.
+She is a productive employee.;Lei è un impiegato produttivo.
+She is at her desk in the large room.;Lei è alla sua scrivania nella grande stanza.
+She is my supervisor.;Lei è il mio supervisore.
+She left five minutes ago.;Ha lasciato cinque minuti fa.
+She uses a standing desk.;Lei usa una scrivania in piedi.
+She works in another building.;Lei lavora in un altro edificio.
+That business is our competitor.;Quel business è il nostro concorrente.
+The deadline is next week.;La scadenza è la prossima settimana.
+The elevator goes to the lobby.;L'ascensore va nella hall.
+The meeting is in the room to the right.;L'incontro è nella stanza a destra.
+The new employee will start Monday.;Il nuovo dipendente inizierà lunedì.
+The phone is not working.;Il telefono non funziona.
+The presentation will start soon.;La presentazione inizierà presto.
+The project is due on Friday.;Il progetto è previsto per venerdì.
+The report is almost finished.;Il rapporto è quasi finito.
+The restroom is down the hall.;Il bagno è in fondo al corridoio.
+The slides can be downloaded from the web page.;Le diapositive possono essere scaricate dalla pagina web.
+The task is easy.;Il compito è facile.
+The training was rather easy.;L'allenamento è stato piuttosto facile.
+The work is tedious.;Il lavoro è noioso.
+They are our client.;Sono i nostri clienti.
+They are paid very well.;Sono pagati molto bene.
+They can type very fast.;Possono digitare molto velocemente.
+We are out of printer paper.;Siamo fuori dalla carta della stampante.
+We are waiting for the elevator.;Stiamo aspettando l'ascensore.
+We had to wait for the room to become available.;Abbiamo dovuto aspettare che la stanza diventasse disponibile.
+We need to buy more ink for the printer.;Abbiamo bisogno di comprare più inchiostro per la stampante.
+We need to buy more pencils.;Abbiamo bisogno di comprare più matite.
+What is your professional background?;Qual è il tuo background professionale?
+When does the building open?;Quando si apre l'edificio?
+When does the office close?;Quando chiude l'ufficio?
+Where is the break room?;Dov'è la stanza per le pause?
+Where is the garbage can?;Dov'è il bidone della spazzatura?
+Where is the laser pointer?;Dov'è il puntatore laser?
+Where is the meeting room?;Dov'è la sala riunioni?
+Where is the old headquarters?;Dov'è il vecchio quartier generale?
+Who is the new client?;Chi è il nuovo cliente?
+Who is your manager?;Chi è il tuo manager?

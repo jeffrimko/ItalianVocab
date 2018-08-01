@@ -1,0 +1,31 @@
+Be brave!;Coraggio!
+Boo!;Abbasso!
+Cheers!;Salute!
+Congrats/all the best!;Auguri!
+Darn!;Mannaggia!
+For God's sake!;Per carità!
+Forza!;Be strong!
+Get out!;Fuori!
+Go away!;Via!
+Gosh!;Accipicchia!
+Heavens!;Perbacco!
+Holy cow!;Cavoli!
+How stupid (person)!;Che scemo!
+Hurrah!;Evviva!
+I beg of you!;Mi raccomando!
+I don't feel like it!;Non mi va!
+I wish!;Magari!
+My God!;Dio mio!
+Oh my goodness!;Oddio!
+Oh my!;Mamma mia!
+Oh poor me!;Povero me!
+Serves you right!;Ti sta bene!
+Shame on you!;Vergogna!
+Shut up!;Zitto!
+That sucks!;Che palle!
+That was scary!;Che spavento!
+Unbelievable!;Che roba!
+Well done!;Bravo!
+What a drag!;Che barba!
+What a mess!;Che macello!
+What a shame!;Peccato!

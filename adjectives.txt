@@ -49,6 +49,7 @@ dry;secco
 dynamic;dinamico
 easy;facile
 elegant;elegante
+embarrassed;imbarazzato
 empty;vuoto
 enormous/huge/tremendous;enorme
 excellent;eccellente

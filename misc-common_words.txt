@@ -220,6 +220,7 @@ put/put in;messo
 race/run;corsa
 rather;piuttosto
 really/truly;davvero
+reason/right;ragione
 reservation;prenotazione
 right;destro
 room;camera

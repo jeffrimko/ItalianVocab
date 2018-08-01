@@ -1,0 +1,6 @@
+It is cold.;E freddo.
+It is raining.;Sta piovendo.
+It is sunny.;C'e il sole.
+It is windy.;C'e vento.
+It rained yesterday.;Ha piovuto ieri.
+The weather is nice today.;Il tempo e bello oggi.

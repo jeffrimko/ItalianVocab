@@ -1,0 +1,25 @@
+to ask;chiedere
+to be;essere
+to become;diventare
+to buy;comprare
+to call;chiamare
+to close;chiudere
+to come;veniere
+to do/to make;fare
+to fall;cadere
+to find;trovare
+to get/to obtain;ottenere
+to give;dare
+to go/to travel;andare
+to have to do/to owe;dovere
+to have;avere
+to keep;tenere
+to leave;lasciare
+to look/to watch;guardare
+to open;aprire
+to place/to put;mettere
+to search/to seek;cercare
+to speak/to talk;parlare
+to stay;stare
+to take;prendere
+to want;volere

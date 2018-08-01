@@ -1,0 +1,52 @@
+Are you from here?;Sei di qui?
+As far as I know.;Per quanto ne so.
+Can you repeat that?;Puoi ripeterlo?
+Could you speak louder?;Potresti parlare più forte?
+Do you have any cats?;Hai dei gatti?
+Do you have any hobbies?;Hai qualche hobby?
+Give me a call sometime.;Chiamami ogni tanto.
+Great talking with you.;Ottimo parlare con te.
+Have we met before?;Ci siamo già incontrati?
+Have you been working out?;Hai lavorato?
+He is really boring.;Lui è davvero noioso.
+How are you today?;Come stai oggi?
+How are your kids?;Come stanno i tuoi bambini?
+How are your parents?;Come stanno i tuoi genitori?
+How did you meet?;Come vi siete incontrati?
+How do you know?;Come lo sai?
+How have you been?;Come sei stato?
+How is your family?;Come sta la tua famiglia?
+How is your wife?;Come sta tua moglie?
+How long has it been?;Quanto tempo è passato?
+How many dogs do you have?;Quanti cani hai?
+How old is your baby?;Quanti anni ha il tuo bambino?
+How was your day?;Com'è stata la tua giornata?
+I am a little busy.;Sono un po 'occupato.
+I am in a hurry.;Sono di fretta.
+I am not sure how to say it.;Non sono sicuro di come dirlo.
+I couldn't hear you.;Non potevo sentirti.
+I don't really know him.;Non lo conosco davvero.
+I have plenty of time.;Ho un sacco di tempo.
+I need to get going.;Ho bisogno di andare avanti.
+It has been good talking to you.;È stato bello parlare con te.
+It is good to see you again.;È bello rivederti.
+It is very nice to meet you.;È molto bello conoscerti
+Let's get together soon.;Ci riuniamo presto.
+Let's have lunch sometime.;Pranziamo qualche volta.
+Let's keep in touch.;Teniamoci in contatto.
+No problem.;Nessun problema.
+Please don't wait for me.;Per favore, non aspettarmi.
+Someone is waiting for me.;Qualcuno mi sta aspettando.
+Sorry but I need to go.;Scusa ma ho bisogno di andare.
+Sorry to bother you.;Mi dispiace disturbarla.
+That is a good question.;Questa è una buona domanda.
+That is great!;È grandioso!
+What do you like to do?;Cosa ti piace fare?
+What have you been up to lately.;Che cosa hai fatto ultimamente?
+What is new?;Cosa c'è di nuovo?
+What is you baby's name?;Come si chiama il tuo bambino?
+What is your name?;Come ti chiami?
+What time is it?;Che ore sono?
+Where are you from?;Di dove sei?
+You look familiar.;Mi sembri familiare.
+You look great!;Sei bellissima!
