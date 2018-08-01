@@ -1,7 +1,7 @@
 = Italian Vocab
 
 == Introduction
-This is a collection of Italian vocabulary words and phrases intended for use with the https://github.com/jeffrimko/VocabReview[VocabReview] Python script.
+This is a collection of Italian vocabulary words and phrases intended for use with the https://github.com/jeffrimko/ReviewVocab[ReviewVocab] Python script.
 
 == Contributing
 The vocab in this project may contain errors and corrections are welcome.
